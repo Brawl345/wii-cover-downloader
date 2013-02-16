@@ -1,0 +1,19 @@
+*INFO*
+ * All covers will downloaded from gametdb.com
+
+*REQUIREMENTS*
+ * PC with .NET 2.0 installed
+ * Your devices with games and loader connected to your PC
+
+*HOW TO USE*
+ * Start the program
+ * Select the device where there are the Loader (are supported USB Loader GX, WiiFlow and Configurable USB Loader).
+ * The application automatically check which Loader are present in the selected device
+ * Now select the device where are stored your games.
+ * Then start the Download and wait. :lol:
+ * The application will download the images and then put in the correct folder for each Loader detected.
+
+*CUSTOMIZATION*
+ * If you want to change the language, go to "Language preferences" and change it.
+ * In case you have already modified/customized paths for covers in Loader settings, change them also in this appilication: "Loader Path Preferences".
+ * You can see the used paths for games (Wii games, Gamecube and Emulated Nand) in the "Device Path Preferences". If necessary change them according to your needs.
