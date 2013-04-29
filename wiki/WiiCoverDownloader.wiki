@@ -19,6 +19,6 @@
  * You can see the used paths for games (Wii games, Gamecube and Emulated Nand) in the "Device Path Preferences". If necessary change them according to your needs.
 
 *HOW THE APPLICATION SEARCH GAMES IN DEVICE*
- * For Wii games, simply search .wbfs files. They have teh ID directly in the name (es: SC7I52.wbfs = Call of Duty: Black Ops). If you haven't the ID as name of wbfs files, application can't download images.
+ * For Wii games, simply search .wbfs files. They have the ID directly in the name (es: SC7I52.wbfs = Call of Duty: Black Ops). If you haven't the ID as name of wbfs files, application can't download images. If you are using a WBFS partition.. no problem: I'll read it with wbfs_file.exe .
  * For Game Cube Games, I supposed that them are in DIOS MIOS 'format' (es: games\GLMP01\game.iso = Luigi's Mansion). If you haven't games in the folder with ID, application can't download images.
  * For emulated NAND channel, I simply read folder name, for take ID of channels.
